@@ -1,0 +1,2 @@
+# entropicdigest
+our email newsletter
